@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+      <Point value="[250, 100]"/>
+    </Property>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="btnBack" min="-2" pref="80" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                              <Component id="jScrollPane1" min="-2" pref="650" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="81" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="380" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="btnBack" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="55" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B&#xe0;i 1: Cho tr&#x1b0;&#x1edb;c 1 x&#xe2;u k&#xfd; t&#x1ef1; l&#xe0; h&#x1ecd; t&#xea;n ng&#x1b0;&#x1edd;i &#x111;&#x1ea7;y &#x111;&#x1ee7; nh&#x1b0;ng khi nh&#x1ead;p c&#xf3; th&#x1ec3; th&#x1eeb;a m&#x1ed9;t s&#x1ed1; d&#x1ea5;u c&#xe1;ch. "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="H&#xe3;y x&#xf3;a &#x111;i c&#xe1;c d&#x1ea5;u c&#xe1;ch th&#x1eeb;a v&#xe0; in ra h&#x1ecd; t&#xea;n ch&#xed;nh x&#xe1;c."/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="package tuan4;&#xa;&#xa;import java.util.ArrayList;&#xa;import java.util.List;&#xa;import java.util.Scanner;&#xa;&#xa;public class Bai1 {&#xa;&#xa;    public static void main(String[] args) {&#xa;        System.out.println(&quot;20181075_Dao Trong Vui_Malop:709155&quot;);&#xa;        Scanner scanner = new Scanner(System.in);&#xa;        System.out.print(&quot;Nh&#x1ead;p t&#xea;n &#x111;&#x1ea7;y &#x111;&#x1ee7;: &quot;);&#xa;        String n = scanner.nextLine();&#xa;        String[] arr = n.split(&quot;&quot;);&#xa;        int count = 0;&#xa;        List&lt;String&gt; fullName = new ArrayList&lt;&gt;();&#xa;        for (int i = 0; i &lt; arr.length; i++) {&#xa;            if (arr[0].equals(&quot; &quot;) &amp;&amp; i == 0) {&#xa;                for (int j = i + 1; j &lt; arr.length - 1; j++) {&#xa;                    if (!arr[j].equals(&quot; &quot;)) {&#xa;                        i = j;&#xa;                        break;&#xa;                    }&#xa;                }&#xa;            }&#xa;            if (arr[i].equals(&quot; &quot;)) {&#xa;                fullName.add(arr[i]);&#xa;                for (int j = i + 1; j &lt; arr.length - 1; j++) {&#xa;                    if (!arr[j].equals(&quot; &quot;)) {&#xa;                        fullName.add(arr[j]);&#xa;                        i = j;&#xa;                        break;&#xa;                    }&#xa;                }&#xa;            } else {&#xa;                fullName.add(arr[i]);&#xa;            }&#xa;        }&#xa;        fullName.stream().forEach(s -&gt; System.out.print(s));&#xa;        System.out.println(&quot;&quot;);&#xa;    }&#xa;}&#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="btnBack">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Back"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="TU&#x1ea6;N 3"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

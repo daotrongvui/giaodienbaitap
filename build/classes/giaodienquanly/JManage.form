@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+      <Point value="[250, 100]"/>
+    </Property>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace pref="195" max="32767" attributes="0"/>
+              <Component id="jTabbedPane1" min="-2" pref="459" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="171" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="179" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" pref="26" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+              <Component id="jTabbedPane1" min="-2" pref="317" max="-2" attributes="0"/>
+              <EmptySpace pref="97" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JTabbedPane" name="jTabbedPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Tu&#x1ea7;n 1">
+                <Property name="tabTitle" type="java.lang.String" value="Tu&#x1ea7;n 1"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="btn11" min="-2" pref="80" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="btn12" min="-2" pref="80" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="btn19" alignment="0" min="-2" pref="80" max="-2" attributes="0"/>
+                                  <Component id="btn113" alignment="0" min="-2" pref="80" max="-2" attributes="0"/>
+                                  <Component id="btn15" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="43" pref="43" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="btn16" min="-2" pref="80" max="-2" attributes="0"/>
+                                  <Component id="btn114" min="-2" pref="80" max="-2" attributes="0"/>
+                                  <Component id="btn110" min="-2" pref="80" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="btn13" alignment="0" pref="80" max="32767" attributes="0"/>
+                                  <Component id="btn17" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <Component id="btn111" alignment="0" min="-2" pref="80" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="btn115" min="-2" pref="80" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="43" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="btn14" alignment="1" min="-2" pref="80" max="-2" attributes="0"/>
+                          <Component id="btn18" alignment="1" min="-2" pref="80" max="-2" attributes="0"/>
+                          <Component id="btn112" alignment="1" min="-2" pref="80" max="-2" attributes="0"/>
+                          <Component id="btn116" alignment="1" min="-2" pref="80" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn11" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn12" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn13" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn14" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn15" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn16" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn17" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn18" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn19" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn110" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn111" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn112" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn113" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn114" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn115" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn116" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="42" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="btn11">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 1"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn12">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 2"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn12ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn13">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 3"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn14">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 4"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn15">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 5"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn16">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 6"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn17">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 7"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn18">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 8"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn19">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 9"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn110">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 10"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn111">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 11"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn112">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 12"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn113">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 13"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn114">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 14"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn115">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 15"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn116">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 16"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Tu&#x1ea7;n 2">
+                <Property name="tabTitle" type="java.lang.String" value="Tu&#x1ea7;n 2"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="btn21" pref="80" max="32767" attributes="0"/>
+                                  <Component id="btn25" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="btn29" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="btn22" pref="80" max="32767" attributes="0"/>
+                                  <Component id="btn26" max="32767" attributes="0"/>
+                                  <Component id="btn210" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="btn23" min="-2" pref="80" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="btn211" pref="80" max="32767" attributes="0"/>
+                                      <Component id="btn27" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace pref="41" max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" alignment="1" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="btn28" pref="80" max="32767" attributes="0"/>
+                                      <Component id="btn212" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Component id="btn24" alignment="1" min="-2" pref="80" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="btn213" min="-2" pref="80" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace pref="62" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn21" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn22" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn23" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn24" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn25" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn26" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn27" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn28" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn29" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn210" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn211" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn212" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                      <Component id="btn213" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="btn21">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 1"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn22">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 2"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn23">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 3"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn24">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 4"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn25">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 5"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn26">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 6"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn27">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 7"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn28">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 8"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn29">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 9"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn210">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 10"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn211">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 11"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn212">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 12"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn213">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 13"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Tu&#x1ea7;n 3">
+                <Property name="tabTitle" type="java.lang.String" value="Tu&#x1ea7;n 3"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="btn35" alignment="1" pref="80" max="32767" attributes="0"/>
+                          <Component id="btn31" alignment="1" max="32767" attributes="0"/>
+                          <Component id="btn39" max="32767" attributes="0"/>
+                          <Component id="btn313" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="45" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="btn32" min="-2" pref="80" max="-2" attributes="0"/>
+                          <Component id="btn310" alignment="1" min="-2" pref="80" max="-2" attributes="0"/>
+                          <Component id="btn36" alignment="1" min="-2" pref="80" max="-2" attributes="0"/>
+                          <Component id="btn314" min="-2" pref="80" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="btn315" pref="80" max="32767" attributes="0"/>
+                          <Component id="btn311" max="32767" attributes="0"/>
+                          <Component id="btn33" max="32767" attributes="0"/>
+                          <Component id="btn37" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="41" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="btn38" pref="80" max="32767" attributes="0"/>
+                          <Component id="btn34" max="32767" attributes="0"/>
+                          <Component id="btn312" max="32767" attributes="0"/>
+                          <Component id="btn316" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn31" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn32" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn33" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn34" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn35" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn36" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn37" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn38" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn39" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn310" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn311" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn312" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btn313" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn314" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn315" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btn316" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="41" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="btn31">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 1"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn32">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 2"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn33">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 3"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn33ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn34">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 4"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn35">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 5"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn36">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 6"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn37">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 7"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn39">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 9"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn38">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 8"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn310">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 10"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn311">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 11"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn312">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 12"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn313">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 13"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn314">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 14"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn315">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 15"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btn316">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#xe0;i 16"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="QU&#x1ea2;N L&#xdd; B&#xc0;I T&#x1eac;P TU&#x1ea6;N 1, 2, 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x110;&#xe0;o Tr&#x1ecd;ng Vui: 20181075"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="M&#xe3; l&#x1edb;p: 709155 "/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
